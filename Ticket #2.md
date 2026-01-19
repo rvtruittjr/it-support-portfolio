@@ -9,3 +9,6 @@ Steps: since all users are local and not connected to a microsoft account i took
 Screenshot: Before/after login screen
 
 ![PasswordWrong](Passwordwrong.png)
+![PasswordChanged](passwordchanged.png)
+![Got In!](Gotin.png)
+![Got verify](testusergotin.png)
