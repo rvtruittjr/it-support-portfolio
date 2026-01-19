@@ -1,6 +1,6 @@
 # 🚀 IT Support Portfolio
 **ISC2 Certified Cybersecurity | PowerShell Automation | Active Directory Lab**  
-*30-Day Intensive Training → 30+ Documented Help Desk Tickets → Job Ready*
+*30-Day Intensive Training → 30+ Documented Help Desk Tickets → Ready to take on your Help Desk problems*
 
 [![ISC2 Certified](https://img.shields.io/badge/ISC2-Certified%20Cybersecurity-blue)](https://www.isc2.org/landing/1mcc)
 [![PowerShell](https://img.shields.io/badge/PowerShell-5%2B%20Scripts-green)](README.md)
