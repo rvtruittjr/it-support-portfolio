@@ -1,0 +1,5 @@
+**Ticket #2 - VM User Locked Out**
+Issue: User can't login to domain account
+VM Lab: Create user → Lock it → Unlock via admin
+Steps: net user /active → Password reset
+Screenshot: Before/after login screen
