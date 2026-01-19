@@ -5,4 +5,4 @@ Steps tried: 1st - Booting into the bios to load the correct drive from there. 2
 Resolution: Rebuilding the MBR (Master Boot Record) from a new windows installation screen. I was afraid that i would have to do a clean windows install but i saved all my custom built scrtipts for my design workflow and a saved myself some time from having to reinstall all my programs. 
 Screenshot: This isnt my PC since i did not get any screenshots during the whole process but this serves as proof to what i was doing.
 
-![alt text](windows-10-bootrec-fix-mbr-hero.jpg)
+https://github.com/rvtruittjr/it-support-portfolio/blob/main/windows-10-bootrec-fix-mbr-hero.jpg?raw=true
