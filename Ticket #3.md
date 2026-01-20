@@ -19,5 +19,6 @@ time-spent: "12 minutes"
 
 **Result:** IP assigned ✓ | Gateway present ✓
 
+
 ### **Step 2: Test IP Connectivity**
 
