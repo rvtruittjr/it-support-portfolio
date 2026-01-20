@@ -19,6 +19,6 @@ time-spent: "12 minutes"
 **Result:** IP assigned ✓ | Gateway present ✓
 ![MBR photo](ipconfig)
 
-
 ### **Step 2: Test IP Connectivity**
+![](ping_8888.png)
 
