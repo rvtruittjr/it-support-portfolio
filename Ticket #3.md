@@ -20,5 +20,5 @@ time-spent: "12 minutes"
 ![MBR photo](ipconfig)
 
 ### **Step 2: Test IP Connectivity**
-![](ping_8888.png)
+![](ping 8888.png)
 
