@@ -16,3 +16,8 @@ time-spent: "12 minutes"
 ## **DIAGNOSTIC STEPS**
 
 ### **Step 1: Verify Physical Connection**
+
+**Result:** IP assigned ✓ | Gateway present ✓
+
+### **Step 2: Test IP Connectivity**
+
